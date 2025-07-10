@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://setupdeskgaming.github.io/sitemapx.xml
